@@ -1,0 +1,10 @@
+body {
+    color: var(--pink);
+    font-family: 'Finger Paint', cursive;
+    
+
+    background-image: url(https://i.pinimg.com/originals/13/5b/80/135b8031023bc124c5ea10d9f226ed00.jpg);
+}
+h1 {
+    color: red;
+}
